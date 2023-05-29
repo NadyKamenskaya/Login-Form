@@ -1,5 +1,6 @@
 # Login Form
 
+[![GitHub Actions](https://github.com/NadyKamenskaya/Login-Form/actions/workflows/github-actions.yml/badge.svg)](https://github.com/NadyKamenskaya/Login-Form/actions/workflows/github-actions.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/6a55b20382b07eac9044/maintainability)](https://codeclimate.com/github/NadyKamenskaya/Login-Form/maintainability)
 
 ## Description
@@ -46,8 +47,8 @@ make lint
 
 ## Demo
 
-<img src=https://github.com/NadyKamenskaya/frontend-project-12/blob/main/frontend/images/logIn.png>
+
 
 _You can try UX/UI-friendly react app by clicking on the link below!_ 👇🏻
 
-[_**Click me**_](https://login-form-uyo8.onrender.com)
+[_**Click me**_](login-form.up.railway.app)
